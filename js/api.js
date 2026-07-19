@@ -3,7 +3,7 @@ import { CacheStorage } from './storage.js';
 
 const API_CONFIG = {
     BASE_URL: 'https://v3.football.api-sports.io',
-    KEY: 'SUA_API_KEY_AQUI', 
+    KEY: 'f0f0421543a0bfd9201f711ecf0508cd', 
     CACHE_TTL: 1440 // Cache de 24 horas (dados de palpites do dia não mudam toda hora)
 };
 
